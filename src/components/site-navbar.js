@@ -17,7 +17,7 @@ class SiteNavbar extends HTMLElement {
             <nav class="navbar navbar-expand-lg navbar-light bg-warning">
                 <div class="container-fluid">
                     <a class="navbar-brand" href="/">
-                        <img src="./src/images/logo.jpg" height="36">
+                        <img src="/src/images/logo.jpg" height="36">
                         YoungHikes
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
